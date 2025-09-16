@@ -1,6 +1,6 @@
-************************************
-Solución de competencias tipo Kaggle
-************************************
+******************************************
+# **Solución de competencias tipo Kaggle**
+******************************************
 Desarrollo de Competiciones con fundamentos de ML accesibles, usando técnicas típicas de competición: EDA, limpieza, feature engineering, selección de modelos, validación cruzada y creación de la submission.
 
 
