@@ -9,4 +9,4 @@ Desarrollo de Competiciones con fundamentos de ML accesibles, usando técnicas t
 - Ejecutar en un entorno con las librerías instaladas (`pandas`, `numpy`, `matplotlib`, `seaborn`, `scikit-learn`, `xgboost`/`lightgbm` opcional).
 - Poner `train.csv` y `test.csv` en el mismo folder o usar Kaggle API.
 
-** Puedes apoyar mi trabajo haciendo "☆ Star" en el repo. ¡Gracias!
+** Puedes apoyar mi trabajo haciendo **"☆ Star"** en el repo. ¡Gracias!
